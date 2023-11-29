@@ -1,0 +1,7 @@
+package Tests;
+
+public class TestCase06 {
+    //this is for test case 6
+
+    //testing
+}
